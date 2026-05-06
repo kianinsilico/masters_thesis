@@ -1,2 +1,6 @@
 ex.py
 filbin/*.xlsx
+.snakemake/
+anaconda3/
+*.mtx
+*.tsv
