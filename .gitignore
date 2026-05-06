@@ -4,3 +4,4 @@ filbin/*.xlsx
 anaconda3/
 *.mtx
 *.tsv
+data/
