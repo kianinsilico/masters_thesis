@@ -5,3 +5,7 @@ anaconda3/
 *.mtx
 *.tsv
 data/
+.Rproj.user
+.RData
+.Rhistory
+.ipynb_checkpoints/
