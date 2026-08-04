@@ -1,0 +1,224 @@
+PROPRIETARY RESEARCH MATERIALS NOTICE
+NO LICENSE GRANTED — ALL RIGHTS RESERVED
+
+Copyright © 2026 Kianoush Keshani, the Université de Lorraine,
+the Alma Mater Studiorum – Università di Bologna, and any other
+applicable rights holders, each solely with respect to the materials
+and rights lawfully owned or controlled by that party.
+
+1. PURPOSE AND STATUS
+
+This repository contains research software, source code, notebooks,
+workflows, documentation, analyses, figures, tables, results, metadata,
+configuration files, and related research materials developed in
+connection with academic research and training activities.
+
+This repository is not open source. No public license, implied license,
+authorization, waiver, assignment, or transfer of intellectual-property
+rights is granted by making the repository or any part of it accessible.
+
+All rights not expressly granted in writing by the appropriate rights
+holder are reserved.
+
+2. RIGHTS HOLDERS
+
+The materials in this repository may be subject to distinct or shared
+rights held by one or more of the following:
+
+(a) Kianoush Keshani, including authorship, attribution, moral rights,
+    and any intellectual-property rights retained by him under applicable
+    law and contractual arrangements;
+
+(b) the Université de Lorraine, including rights in software and related
+    documentation arising under the applicable hosting agreement and
+    any other applicable laws, policies, or agreements;
+
+(c) the Alma Mater Studiorum – Università di Bologna, to the extent that
+    rights arise under applicable law, university regulations, degree or
+    thesis arrangements, supervision, funding, or other agreements;
+
+(d) research laboratories, supervisors, collaborators, institutions,
+    publishers, database providers, funding bodies, or other third
+    parties whose materials or contributions are represented in or
+    associated with this repository.
+
+Nothing in this notice shall be interpreted as reallocating ownership
+between those parties or as overriding any applicable agreement,
+institutional policy, law, or regulation.
+
+3. NO PERMISSION TO USE
+
+Except where expressly authorized in advance and in writing by every
+rights holder whose permission is legally required, no person or entity
+may:
+
+(a) copy, reproduce, download, mirror, archive, or store the materials,
+    except for transient technical copies strictly necessary to access
+    the repository through an authorized platform;
+
+(b) execute, run, compile, test, deploy, or otherwise use any software,
+    notebook, workflow, script, configuration, or analytical method;
+
+(c) modify, translate, adapt, arrange, transform, annotate, combine,
+    reverse engineer, or create derivative works;
+
+(d) publish, republish, communicate, display, present, transmit,
+    distribute, sublicense, sell, rent, lend, commercialize, or otherwise
+    make any material available to another person;
+
+(e) use the materials for research, teaching, validation, benchmarking,
+    clinical, diagnostic, regulatory, commercial, or product-development
+    purposes;
+
+(f) extract data, text, code, figures, results, gene lists, signatures,
+    annotations, models, parameters, or other information for reuse;
+
+(g) use the materials to train, fine-tune, evaluate, benchmark, augment,
+    or develop artificial-intelligence, machine-learning, statistical,
+    language, or other computational models;
+
+(h) remove, conceal, modify, or misrepresent any copyright, authorship,
+    provenance, funding, confidentiality, institutional, or attribution
+    notice;
+
+(i) claim authorship, ownership, endorsement, affiliation, validation,
+    or approval by Kianoush Keshani, the Université de Lorraine, the
+    Università di Bologna, ORION, INSERM, NGERE, or any collaborator or
+    institution.
+
+4. PLATFORM AND LEGAL EXCEPTIONS
+
+This notice does not restrict:
+
+(a) the limited technical rights necessarily granted to the repository
+    hosting provider under its applicable terms of service;
+
+(b) acts that cannot lawfully be prohibited under mandatory applicable
+    law; or
+
+(c) uses separately authorized by a written agreement signed or approved
+    by the relevant rights holder or its duly authorized representative.
+
+No platform functionality, including public viewing, indexing, caching,
+or forking, shall be interpreted as granting permission for any use
+outside the minimum rights necessarily provided by that platform.
+
+5. CONFIDENTIALITY AND UNPUBLISHED INFORMATION
+
+The repository may contain or refer to unpublished, preliminary,
+confidential, institution-owned, collaborator-owned, or otherwise
+restricted scientific or technical information.
+
+Access to the repository does not authorize disclosure or further use of
+such information. Recipients must not publish, disseminate, communicate,
+or exploit any non-public information.
+
+Nothing in this notice limits any stricter confidentiality obligation
+arising under the Université de Lorraine hosting agreement, another
+contract, institutional policy, professional duty, data-access agreement,
+or applicable law.
+
+6. HUMAN, PATIENT, AND CONTROLLED-ACCESS DATA
+
+No permission is granted to use, reconstruct, identify, link, infer, or
+redistribute patient-level, personally identifiable, pseudonymized,
+controlled-access, sensitive, or human-subject information.
+
+Publicly accessible datasets referenced by this repository must be
+obtained independently from their original repositories and used only
+under their original consent conditions, licenses, data-use agreements,
+ethical approvals, and applicable laws.
+
+7. THIRD-PARTY MATERIALS
+
+This notice does not grant rights in third-party materials, including:
+
+- datasets and database content;
+- publications, figures, tables, and supplementary materials;
+- reference genomes and annotations;
+- gene sets, signatures, ontologies, and pathway resources;
+- software libraries, adapted code, and external workflows;
+- names, logos, trademarks, and institutional branding.
+
+Such materials remain governed by their original licenses, copyright,
+database rights, terms of access, citation requirements, and other
+restrictions.
+
+Where a third-party license grants rights that cannot be restricted by
+this notice, that third-party license applies solely to the relevant
+third-party material and not to the original materials of this repository.
+
+8. NO PATENT, TRADEMARK, OR ENDORSEMENT RIGHTS
+
+No patent license, trademark license, right of publicity, right to use an
+institutional logo, or right to imply sponsorship, endorsement,
+affiliation, scientific validation, or approval is granted.
+
+The names of the authors, institutions, laboratories, supervisors,
+collaborators, and funding programs may not be used to promote or endorse
+any activity, product, publication, service, or derivative work without
+prior written permission.
+
+9. ATTRIBUTION DOES NOT CREATE PERMISSION
+
+Citation or acknowledgment of the authors, institutions, publications,
+datasets, or funding bodies does not substitute for permission and does
+not authorize any otherwise prohibited use.
+
+10. REQUESTS FOR AUTHORIZATION
+
+Requests to use any material must identify:
+
+- the exact files or materials requested;
+- the proposed purpose and scope of use;
+- whether the use is academic, commercial, educational, clinical, or
+  computational;
+- whether modification, redistribution, publication, or model training
+  is intended; and
+- the persons and institutions that would receive or access the material.
+
+Permission is valid only if provided in writing by every rights holder
+whose authorization is required. Permission from the repository
+maintainer alone does not bind or waive the rights of the Université de
+Lorraine, the Università di Bologna, or any third party.
+
+11. NO WARRANTY
+
+THE MATERIALS ARE PROVIDED “AS IS” AND FOR INFORMATIONAL REVIEW ONLY,
+WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES
+OF ACCURACY, COMPLETENESS, REPRODUCIBILITY, MERCHANTABILITY, FITNESS FOR
+A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, SECURITY, OR SUITABILITY
+FOR RESEARCH, CLINICAL, DIAGNOSTIC, OR COMMERCIAL USE.
+
+THE MATERIALS MAY CONTAIN ERRORS, INCOMPLETE ANALYSES, PRELIMINARY
+RESULTS, OR OUTDATED INFORMATION.
+
+12. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHORS,
+INSTITUTIONS, CONTRIBUTORS, SUPERVISORS, LABORATORIES, AND OTHER RIGHTS
+HOLDERS SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, CONSEQUENTIAL, OR OTHER DAMAGE ARISING FROM ACCESS
+TO, RELIANCE ON, OR UNAUTHORIZED USE OF THE MATERIALS.
+
+13. NO WAIVER
+
+Failure by a rights holder to enforce any right or restriction shall not
+constitute a waiver of that right or of any later enforcement.
+
+14. SEVERABILITY AND PRECEDENCE
+
+If any provision of this notice is held invalid or unenforceable, the
+remaining provisions shall continue to apply to the maximum extent
+permitted by law.
+
+In the event of a conflict, applicable law, signed agreements,
+institutional regulations, data-access terms, and valid third-party
+licenses take precedence over this notice.
+
+15. RESERVATION OF RIGHTS
+
+No rights are granted by implication, estoppel, public availability,
+academic custom, citation, access, possession, or otherwise.
+
+ALL RIGHTS ARE RESERVED.
