@@ -10,3 +10,6 @@ data/
 .Rhistory
 .ipynb_checkpoints/
 .vscode/
+data.tar.xz
+filbin/*
+ref_code/*
