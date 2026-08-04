@@ -1,15 +1,75 @@
+# Local scratch files
 ex.py
-filbin/*.xlsx
+
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Workflow managers and local environments
 .snakemake/
 anaconda3/
-*.mtx
-*.tsv
-data/
-.Rproj.user
+
+# IDE and operating-system files
+.vscode/
+.idea/
+.DS_Store
+
+# R
+.Rproj.user/
 .RData
 .Rhistory
-.ipynb_checkpoints/
-.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*~
+
+# Archives and large expression objects
 data.tar.xz
+*.tar
+*.tar.gz
+*.zip
+*.h5
+*.h5ad
+*.loom
+*.mtx
+*.rds
+*.rda
+
+# Generic TSV files are ignored unless they are curated project outputs
+*.tsv
+!data/metadata/**/*.tsv
+!data/signatures/**/*.tsv
+!results/**/*.tsv
+
+# Legacy local source and reference-data folders
 filbin/*
 ref_code/*
+
+# Raw data: retain folder structure but ignore dataset contents
+data/raw/**
+!data/raw/**/
+!data/raw/**/.gitkeep
+!data/raw/README.md
+
+# Intermediate data: retain folder structure but ignore generated contents
+data/interim/**
+!data/interim/**/
+!data/interim/**/.gitkeep
+!data/interim/README.md
+
+# Processed data: retain folder structure but ignore generated objects
+data/processed/**
+!data/processed/**/
+!data/processed/**/.gitkeep
+!data/processed/README.md
+
+# Local datasets and reference resources kept outside Git
+data/Liu/
+data/filbin/
+data/ref/
+data/references/
